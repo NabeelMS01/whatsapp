@@ -154,3 +154,17 @@ margin-top: 60px;
     color: rgb(255, 255, 255);
     text-align: start;
 }
+.btn-1{
+    width: 100%; 
+    display: flex;
+    justify-content: center;
+     margin-bottom: 100px;
+}
+.btn-1 button {
+    height: 50px;
+     width: 200px;
+      color: #128c7e;
+      border: solid 2px #128c7e;
+      border-radius: 50px;
+      background-color: #ffffff;
+}
